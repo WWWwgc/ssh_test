@@ -1,3 +1,0 @@
-“*.pbw” filter=lfs diff=lfs merge=lfs -text lockable
-“*.srw” filter=lfs diff=lfs merge=lfs -text
-–lockable filter=lfs diff=lfs merge=lfs -text
